@@ -12,7 +12,7 @@ Features (Usage):-
 
 3. Select the ECommerceWebsite project and run as Java Application.
 
-4. After the applications started completely, go to http://localhost:9090/products.
+4. After the applications started completely, go to http://localhost:9090/products
 
 This is an example of product catalog. Here, user can add, edit, update, delete a product or fetch all the products avaliable.
 
